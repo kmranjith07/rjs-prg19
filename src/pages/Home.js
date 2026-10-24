@@ -1,3 +1,4 @@
+
 import React from "react";
 
 function Home() {
@@ -5,16 +6,20 @@ function Home() {
     <div className="page home-page">
       <h1>Home</h1>
 
-      <img
-        src={`${process.env.PUBLIC_URL}/student.jpg`}
-        alt="Student profile"
-        className="student-photo"
-      />
+   
 
-      <h2>Arun Kumar</h2>
+<img
+  src={`${process.env.PUBLIC_URL}/student.jpg`}
+  alt="Student Profile"
+  width="300"
+/>
+
+
+
+      <h2> ABDUL BAZEER.M</h2>
 
       <p>
-        Hello! My name is AAA. I am a BCA student who enjoys learning programming,
+        Hello! My name is ABDUL BAZEER.M. I am a BCA student who enjoys learning programming,
         developing websites, and exploring new technologies.
       </p>
 
