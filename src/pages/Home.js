@@ -16,10 +16,10 @@ function Home() {
 
 
 
-      <h2> ABDUL BAZEER.M</h2>
+      <h2> MANO RANJITH.K</h2>
 
       <p>
-        Hello! My name is ABDUL BAZEER.M. I am a BCA student who enjoys learning programming,
+        Hello! My name is MANO RANJITH K. I am a BCA student who enjoys learning programming,
         developing websites, and exploring new technologies.
       </p>
 
